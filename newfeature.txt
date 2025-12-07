@@ -1,2 +1,3 @@
 new functions
 line2 new feature
+fix bug
